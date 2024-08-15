@@ -1,2 +1,1 @@
-# csv_to_db_table
-In this project I take a .csv file convert it to a data frame using pandas then convert it to a table in a database that i make in sqlite3!
+Moving data from two .csv files(INSTRUCTOR.csv, Departments.csv) to Pandas data frames(df, df1) then converting the data frames to tables('Departments', 'INSTRUCTOR') made in a database(STAFF.db) in sqlite3!
